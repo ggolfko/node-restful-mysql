@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-restful-mysql",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000n\u0000o\u0000d\u0000e\u0000-\u0000r\u0000e\u0000s\u0000t\u0000f\u0000u\u0000l\u0000-\u0000m\u0000y\u0000s\u0000q\u0000l\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggolfko/node-restful-mysql.git"
+  },
+  "author": "Kitti Onthong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggolfko/node-restful-mysql/issues"
+  },
+  "homepage": "https://github.com/ggolfko/node-restful-mysql#readme",
+  "devDependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "method-override": "^2.3.9",
+    "morgan": "^1.8.2",
+    "mysql": "^2.13.0"
+  }
+}
